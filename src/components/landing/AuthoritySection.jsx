@@ -14,7 +14,7 @@ export default function AuthoritySection() {
         {/* Left: founder photo placeholder */}
         <div className="md:col-span-2 flex justify-center md:justify-start">
           <img
-            src="https://media.base44.com/images/public/69ee0975f64f0037c62a668d/8dd4b3d3f_DSC_3471jpgcopy.jpg"
+            src="/images/authority-photo.jpg"
             alt="Founder, Allgorithm.ai"
             className="w-full max-w-[240px] md:max-w-none aspect-[4/5] object-cover rounded-lg"
           />
@@ -37,7 +37,7 @@ export default function AuthoritySection() {
 
           <div className="mt-8 pt-8 border-t border-hairline">
             <img
-              src="https://media.base44.com/images/public/69ee0975f64f0037c62a668d/4b8158bc1_generated_image.png"
+              src="/images/authority-badge.png"
               alt="Signature"
               className="h-14 mb-3 opacity-80"
             />

@@ -3,17 +3,17 @@ import Eyebrow from "./Eyebrow";
 
 const CARDS = [
   {
-    img: "https://media.base44.com/images/public/69ee0975f64f0037c62a668d/b361be399_generated_image.png",
+    img: "/images/audience-1.png",
     title: "The Senior Leader",
     description: "President, Rector, or Vice-Chancellor. The person who sets the institutional direction.",
   },
   {
-    img: "https://media.base44.com/images/public/69ee0975f64f0037c62a668d/2baf3db87_generated_image.png",
+    img: "/images/audience-2.png",
     title: "Academic & Operations Leads",
     description: "Provost, Director of IT, Director of Strategy. The people who will implement what is decided.",
   },
   {
-    img: "https://media.base44.com/images/public/69ee0975f64f0037c62a668d/a4ecec15f_generated_image.png",
+    img: "/images/audience-3.png",
     title: "Faculty Leadership",
     description: "1 to 2 Deans from the faculties most affected by AI — typically Engineering, Business, and Education.",
   },

@@ -1,6 +1,6 @@
 import Eyebrow from "./Eyebrow";
 
-const CAMPUS_IMAGE = "https://media.base44.com/images/public/69ee0975f64f0037c62a668d/b505fe874_generated_image.png";
+const CAMPUS_IMAGE = "/images/campus.png";
 
 export default function HeroSection({ heroImage }) {
   return (

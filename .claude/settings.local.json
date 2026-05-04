@@ -5,7 +5,12 @@
       "Bash(npm install *)",
       "Bash(npm run *)",
       "Bash(curl -s http://localhost:5173)",
-      "Bash(kill 6503)"
+      "Bash(kill 6503)",
+      "Bash(mkdir -p /Users/mac/Documents/code/allgorithm-campus-bridge/public/images)",
+      "Bash(curl -s -o hero-main.png \"https://media.base44.com/images/public/69ee0975f64f0037c62a668d/2344e3a2d_generated_6eea496e.png\")",
+      "Bash(curl -s -o campus.png \"https://media.base44.com/images/public/69ee0975f64f0037c62a668d/b505fe874_generated_image.png\")",
+      "Bash(curl -s -o authority-photo.jpg \"https://media.base44.com/images/public/69ee0975f64f0037c62a668d/8dd4b3d3f_DSC_3471jpgcopy.jpg\")",
+      "Bash(curl -s -o authority-badge.png \"https://media.base44.com/images/public/69ee0975f64f0037c62a668d/4b8158bc1_generated_image.png\")"
     ]
   }
 }

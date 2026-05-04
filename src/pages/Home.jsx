@@ -11,7 +11,7 @@ import FAQSection from "../components/landing/FAQSection";
 import ReserveSection from "../components/landing/ReserveSection";
 import Footer from "../components/landing/Footer";
 
-const HERO_IMAGE = "https://media.base44.com/images/public/69ee0975f64f0037c62a668d/2344e3a2d_generated_6eea496e.png";
+const HERO_IMAGE = "/images/hero-main.png";
 
 export default function Home() {
   return (
