@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import path from 'path'
 
 export default defineConfig(({ command }) => ({
-  base: command === 'build' ? '/allgorithm-campus-bridge/' : '/',
+  base: '/',
   plugins: [react()],
   resolve: {
     alias: {
